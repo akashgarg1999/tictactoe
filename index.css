@@ -1,0 +1,38 @@
+.heading{
+    text-align: center;
+    font-size: 30px;
+
+}
+#turn{
+    text-align: center;
+    font-size: 30px;
+}
+body{
+    background-color: #2dafafe0;
+}
+table{
+
+    /* background-color: whitesmoke; */
+    margin: 20px auto;    
+    border-radius: 10px;
+}
+td { 
+    width: 100px;
+    height: 100px;
+    border: 1px solid black;
+    border-radius: 15%;
+    background-color:whitesmoke;
+    text-align: center;
+    font-size: 70px;
+    
+}
+table :hover{
+   background-color: grey;
+}
+#btnreset{
+    
+    font-size: 20px;
+    border-radius: 5px;
+
+    
+}
